@@ -1,0 +1,6 @@
+{
+  "name": "HydroAgro Design Suite - Diseño Hidráulico y Topográfico de Riego",
+  "description": "Herramienta técnica integral para ingeniería de sistemas de riego presurizado: cálculos agronómicos FAO-56, análisis de curvas de nivel y topografía, hidráulica de laterales y matrices, potencia de bombeo, presupuesto detallado y catálogos técnicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
